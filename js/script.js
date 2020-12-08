@@ -10,7 +10,7 @@
 
 // (num === 50) ? console.log('Ok') : console.log('Error');
 
-const num = 50;
+let num = 50;
 
 // switch (num) {
 //     case 49:
@@ -27,3 +27,7 @@ const num = 50;
 //         break;
 // }
 
+while (num < 55) {
+    console.log(55);
+    num++;
+}
