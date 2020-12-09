@@ -46,11 +46,7 @@ const personalMovieDB = {
 //     } else {
 //         console.log('Error');
 //         i--;
-//     }
-// }
-
-let i = 0;
-// while (i < 2) {
+//     }~`.oaqp .`
 //     const a = prompt('Один из последних просмотренных фильмов?', ''),
 //         b = prompt('На сколько оцените его?', '');
 //     i++;
