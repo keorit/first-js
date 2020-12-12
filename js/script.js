@@ -1,12 +1,12 @@
 'use strict';
 
-// if  (num < 49) {
-//     console.log('Error');
-// } else if (num > 100) {
-//     console.log('Много');
-// } else {
-//     console.log('OK');
-// }
+if  (num < 49) {
+    console.log('Error');
+} else if (num > 100) {
+    console.log('Много');
+} else {
+    console.log('OK');
+}
 
 // (num === 50) ? console.log('Ok') : console.log('Error');
 
